@@ -1,0 +1,11 @@
+{
+  "name": "Apex Token",
+  "website": "https://apextoken.io",
+  "description": "Official APX Token",
+  "explorer": "https://bscscan.com/token/0xB3a78c3f55Fc653992169F77cb10878D2cF1684f",
+  "type": "BEP20",
+  "symbol": "APX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xB3a78c3f55Fc653992169F77cb10878D2cF1684f"
+}
